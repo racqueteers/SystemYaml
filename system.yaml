@@ -1,0 +1,34 @@
+emergingRacqueteers:
+	team:
+		name: emerging_racqueteers
+		alpha:
+			- name: Rajesh
+			- name: Abhishek
+			- name: Shradha
+			- name: Bhanu
+		beta:
+			- name: Riyaz
+			- name: Srini
+			- name: Nitin
+			- name: Alok
+			- name: Sirisha
+		slogan: "leap to win"
+	logo:
+		url: 
+		colors:
+			- Green
+			- Black
+			- Red
+			- Grey
+	photos:
+		url:
+	videos:
+		url:
+	schedule:
+		- day: Monday
+		  date: 1stJuly
+		  oppositionTeam: MightyFrogs
+		  players: Shraddha,Riyaz
+	meetings: 4
+	totalPosts: 5
+
