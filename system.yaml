@@ -29,16 +29,49 @@ emergingRacqueteers:
     schedule:
     - match: 1
       day: Monday
-      date: 1stJuly
+      date: "27th June"
       oppositionTeam: MightyFrogs
       type: doubles
-      players: Shraddha,Riyaz
+      group: alpha
+      players:
+        - Shraddha
+        - Riyaz
+      result: lost
     - match: 2
-      day: Monday
-      date: 1stJuly
+      day: Wednesday
+      date: "29th June"
+      group: alpha
       type: singles
       oppositionTeam: HardHitters
-      players: Rajesh
+      players:
+        - Rajesh
+    - match: 3
+      day: Friday
+      date: "1st July"
+      type: doubles
+      group: beta
+      oppositionTeam: NinjaTerror
+      players:
+        - Riyaz
+        - Nitin
+    - match: 4
+      day: Friday
+      date: "1st July"
+      type: doubles
+      group: alpha
+      oppositionTeam: "Lord of Spins"
+      players:
+        - Abhishek
+        - Bhanu
     meetings: 4
     totalPosts: 5
+    props:
+      - badges
+      - posters
+      - videos
+      - tshirt
+    values:
+      - "Never Give Up!"
+      - "Believe in yourself"
+      - "Its not about winning"
 
